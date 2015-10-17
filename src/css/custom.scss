@@ -1,0 +1,34 @@
+/* --------------------------------------------
+Custom CSS for my Portfolio
+
+Author:		Camden Rudisill
+License: 	MIT License (see LICENSE file)
+----------------------------------------------- */
+/* ------------------------
+   	GLOBALS
+--------------------------*/
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: url("../assets/img/stardust.png");
+  h1 {
+    font-family: Munro;
+    color: #618AFF;
+    letter-spacing: 5px;
+  }
+}
+#game-container {
+  display: flex;
+  background-color: #fff;
+}
+
+/* ------------------------
+    FONTS
+--------------------------*/
+@font-face {
+  font-family: Munro;
+  src: url("../assets/fonts/Munro/Munro.ttf");
+}

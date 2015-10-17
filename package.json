@@ -1,0 +1,23 @@
+{
+  "name": "nes-platformer",
+  "version": "1.0.0",
+  "description": "A NES-style Platformer built in ES6",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamAndPineapple/NES6-Platformer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamAndPineapple/NES6-Platformer/issues"
+  },
+  "homepage": "https://github.com/CamAndPineapple/NES6-Platformer#readme",
+  "devDependencies": {
+    "gulp-imagemin": "^2.3.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
