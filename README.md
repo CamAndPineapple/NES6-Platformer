@@ -1,8 +1,8 @@
 # NES6-Platformer
 ------------------
-Growing up, I loved playing my NES. It was my first gaming system, and has embedded a ton of nostalgia within me.
+I'll never forget that magical feeling of playing my NES as a kid. It was my first gaming system, and has fostered a ton of nostalgia within me.
 
-This project is my attempt to make a NES style platformer using ES6 syntax.
+This project is my attempt to make a basic NES-style platformer using ES6 syntax. 
 
 NES + ES6 = NES6
 
